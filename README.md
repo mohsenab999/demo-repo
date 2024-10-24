@@ -1,2 +1,2 @@
 # demo-repo
-first demo project
+first demo project!
